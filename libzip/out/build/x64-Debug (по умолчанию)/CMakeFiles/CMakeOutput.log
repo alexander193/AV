@@ -1,0 +1,635 @@
+The system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.28.29333/bin/Hostx64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Оптимизирующий компилятор Microsoft (R) C/C++ версии 19.28.29337 для x64
+(C) Корпорация Майкрософт (Microsoft Corporation).  Все права защищены.
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.28.29337.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/3.18.20081302-MSVC_2/CompilerIdC/CMakeCCompilerId.exe"
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_b55c3 && [1/2] Building C object CMakeFiles\cmTC_b55c3.dir\CMakeCCompilerABI.c.obj
+Примечание: включение файла:  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.18\Modules\CMakeCompilerABI.h
+[2/2] Linking C executable cmTC_b55c3.exe
+
+
+
+Determining if the function _close exists passed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_41734 && [1/2] Building C object CMakeFiles\cmTC_41734.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_41734.exe
+
+
+
+Determining if the function _dup exists passed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_05cad && [1/2] Building C object CMakeFiles\cmTC_05cad.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_05cad.exe
+
+
+
+Determining if the function _fdopen exists passed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_789c7 && [1/2] Building C object CMakeFiles\cmTC_789c7.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_789c7.exe
+
+
+
+Determining if the function _fileno exists passed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_45a55 && [1/2] Building C object CMakeFiles\cmTC_45a55.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_45a55.exe
+
+
+
+Determining if the function _setmode exists passed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_756e1 && [1/2] Building C object CMakeFiles\cmTC_756e1.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_756e1.exe
+
+
+
+Determining if the _snprintf exist passed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_e145d && [1/2] Building C object CMakeFiles\cmTC_e145d.dir\CheckSymbolExists.c.obj
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stdio.h
+Примечание: включение файла:   C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vcruntime.h
+Примечание: включение файла:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\sal.h
+Примечание: включение файла:      C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\concurrencysal.h
+Примечание: включение файла:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vadefs.h
+Примечание: включение файла:   C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wstdio.h
+Примечание: включение файла:    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_stdio_config.h
+CheckSymbolExists.c(8): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+[2/2] Linking C executable cmTC_e145d.exe
+
+
+File C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdio.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef _snprintf
+  return ((int*)(&_snprintf))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the function _strdup exists passed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_05aed && [1/2] Building C object CMakeFiles\cmTC_05aed.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_05aed.exe
+
+
+
+Determining if the _stricmp exist passed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_15202 && [1/2] Building C object CMakeFiles\cmTC_15202.dir\CheckSymbolExists.c.obj
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\string.h
+Примечание: включение файла:   C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vcruntime.h
+Примечание: включение файла:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\sal.h
+Примечание: включение файла:      C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\concurrencysal.h
+Примечание: включение файла:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vadefs.h
+Примечание: включение файла:   C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_memory.h
+Примечание: включение файла:    C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_memcpy_s.h
+Примечание: включение файла:     C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\errno.h
+Примечание: включение файла:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vcruntime_string.h
+Примечание: включение файла:   C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wstring.h
+[2/2] Linking C executable cmTC_15202.exe
+
+
+File C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <string.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef _stricmp
+  return ((int*)(&_stricmp))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if the function _strtoi64 exists passed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_ad9fc && [1/2] Building C object CMakeFiles\cmTC_ad9fc.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_ad9fc.exe
+
+
+
+Determining if the function _strtoui64 exists passed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_2fb45 && [1/2] Building C object CMakeFiles\cmTC_2fb45.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_2fb45.exe
+
+
+
+Determining if the function _unlink exists passed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_5fc0c && [1/2] Building C object CMakeFiles\cmTC_5fc0c.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_5fc0c.exe
+
+
+
+Determining if the function fileno exists passed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_c54cb && [1/2] Building C object CMakeFiles\cmTC_c54cb.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_c54cb.exe
+
+
+
+Determining if the function setmode exists passed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_30c22 && [1/2] Building C object CMakeFiles\cmTC_30c22.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_30c22.exe
+
+
+
+Determining if the function strdup exists passed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_1c5a7 && [1/2] Building C object CMakeFiles\cmTC_1c5a7.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_1c5a7.exe
+
+
+
+Determining if the function stricmp exists passed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_87cfa && [1/2] Building C object CMakeFiles\cmTC_87cfa.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_87cfa.exe
+
+
+
+Determining if the function strtoll exists passed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_06c5d && [1/2] Building C object CMakeFiles\cmTC_06c5d.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_06c5d.exe
+
+
+
+Determining if the function strtoull exists passed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_c6080 && [1/2] Building C object CMakeFiles\cmTC_c6080.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_c6080.exe
+
+
+
+Determining if files stdbool.h exist passed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_f62a8 && [1/2] Building C object CMakeFiles\cmTC_f62a8.dir\HAVE_STDBOOL_H.c.obj
+Примечание: включение файла:  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\stdbool.h
+[2/2] Linking C executable cmTC_f62a8.exe
+
+
+
+Determining if files inttypes.h exist passed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_28ce8 && [1/2] Building C object CMakeFiles\cmTC_28ce8.dir\HAVE_INTTYPES_H_LIBZIP.c.obj
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\inttypes.h
+Примечание: включение файла:   C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vcruntime.h
+Примечание: включение файла:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\sal.h
+Примечание: включение файла:      C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\concurrencysal.h
+Примечание: включение файла:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vadefs.h
+Примечание: включение файла:   C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\stdint.h
+[2/2] Linking C executable cmTC_28ce8.exe
+
+
+
+Determining if files stdint.h exist passed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_c8369 && [1/2] Building C object CMakeFiles\cmTC_c8369.dir\HAVE_STDINT_H_LIBZIP.c.obj
+Примечание: включение файла:  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\stdint.h
+Примечание: включение файла:   C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vcruntime.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\sal.h
+Примечание: включение файла:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\concurrencysal.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vadefs.h
+[2/2] Linking C executable cmTC_c8369.exe
+
+
+
+Determining if files sys/types.h exist passed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_95c2c && [1/2] Building C object CMakeFiles\cmTC_95c2c.dir\HAVE_SYS_TYPES_H_LIBZIP.c.obj
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\sys/types.h
+[2/2] Linking C executable cmTC_95c2c.exe
+
+
+
+Determining if the include file sys/types.h exists passed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_e3b71 && [1/2] Building C object CMakeFiles\cmTC_e3b71.dir\CheckIncludeFile.c.obj
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\sys/types.h
+[2/2] Linking C executable cmTC_e3b71.exe
+
+
+
+Determining if the include file stdint.h exists passed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_680ab && [1/2] Building C object CMakeFiles\cmTC_680ab.dir\CheckIncludeFile.c.obj
+Примечание: включение файла:  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\stdint.h
+Примечание: включение файла:   C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vcruntime.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\sal.h
+Примечание: включение файла:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\concurrencysal.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vadefs.h
+[2/2] Linking C executable cmTC_680ab.exe
+
+
+
+Determining if the include file stddef.h exists passed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_bfc3a && [1/2] Building C object CMakeFiles\cmTC_bfc3a.dir\CheckIncludeFile.c.obj
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stddef.h
+Примечание: включение файла:   C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vcruntime.h
+Примечание: включение файла:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\sal.h
+Примечание: включение файла:      C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\concurrencysal.h
+Примечание: включение файла:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vadefs.h
+[2/2] Linking C executable cmTC_bfc3a.exe
+
+
+
+Determining size of __int8 passed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_c597e && [1/2] Building C object CMakeFiles\cmTC_c597e.dir\__INT8_LIBZIP.c.obj
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\sys/types.h
+Примечание: включение файла:  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\stdint.h
+Примечание: включение файла:   C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vcruntime.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\sal.h
+Примечание: включение файла:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\concurrencysal.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vadefs.h
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stddef.h
+Примечание: включение файла:   C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt.h
+[2/2] Linking C executable cmTC_c597e.exe
+
+
+
+Determining size of int8_t passed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_f4b61 && [1/2] Building C object CMakeFiles\cmTC_f4b61.dir\INT8_T_LIBZIP.c.obj
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\sys/types.h
+Примечание: включение файла:  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\stdint.h
+Примечание: включение файла:   C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vcruntime.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\sal.h
+Примечание: включение файла:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\concurrencysal.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vadefs.h
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stddef.h
+Примечание: включение файла:   C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt.h
+[2/2] Linking C executable cmTC_f4b61.exe
+
+
+
+Determining size of uint8_t passed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_3e7e2 && [1/2] Building C object CMakeFiles\cmTC_3e7e2.dir\UINT8_T_LIBZIP.c.obj
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\sys/types.h
+Примечание: включение файла:  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\stdint.h
+Примечание: включение файла:   C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vcruntime.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\sal.h
+Примечание: включение файла:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\concurrencysal.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vadefs.h
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stddef.h
+Примечание: включение файла:   C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt.h
+[2/2] Linking C executable cmTC_3e7e2.exe
+
+
+
+Determining size of __int16 passed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_47a91 && [1/2] Building C object CMakeFiles\cmTC_47a91.dir\__INT16_LIBZIP.c.obj
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\sys/types.h
+Примечание: включение файла:  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\stdint.h
+Примечание: включение файла:   C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vcruntime.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\sal.h
+Примечание: включение файла:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\concurrencysal.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vadefs.h
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stddef.h
+Примечание: включение файла:   C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt.h
+[2/2] Linking C executable cmTC_47a91.exe
+
+
+
+Determining size of int16_t passed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_da0a0 && [1/2] Building C object CMakeFiles\cmTC_da0a0.dir\INT16_T_LIBZIP.c.obj
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\sys/types.h
+Примечание: включение файла:  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\stdint.h
+Примечание: включение файла:   C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vcruntime.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\sal.h
+Примечание: включение файла:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\concurrencysal.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vadefs.h
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stddef.h
+Примечание: включение файла:   C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt.h
+[2/2] Linking C executable cmTC_da0a0.exe
+
+
+
+Determining size of uint16_t passed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_5190b && [1/2] Building C object CMakeFiles\cmTC_5190b.dir\UINT16_T_LIBZIP.c.obj
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\sys/types.h
+Примечание: включение файла:  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\stdint.h
+Примечание: включение файла:   C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vcruntime.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\sal.h
+Примечание: включение файла:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\concurrencysal.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vadefs.h
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stddef.h
+Примечание: включение файла:   C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt.h
+[2/2] Linking C executable cmTC_5190b.exe
+
+
+
+Determining size of __int32 passed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_36fc8 && [1/2] Building C object CMakeFiles\cmTC_36fc8.dir\__INT32_LIBZIP.c.obj
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\sys/types.h
+Примечание: включение файла:  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\stdint.h
+Примечание: включение файла:   C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vcruntime.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\sal.h
+Примечание: включение файла:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\concurrencysal.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vadefs.h
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stddef.h
+Примечание: включение файла:   C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt.h
+[2/2] Linking C executable cmTC_36fc8.exe
+
+
+
+Determining size of int32_t passed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_bc73a && [1/2] Building C object CMakeFiles\cmTC_bc73a.dir\INT32_T_LIBZIP.c.obj
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\sys/types.h
+Примечание: включение файла:  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\stdint.h
+Примечание: включение файла:   C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vcruntime.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\sal.h
+Примечание: включение файла:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\concurrencysal.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vadefs.h
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stddef.h
+Примечание: включение файла:   C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt.h
+[2/2] Linking C executable cmTC_bc73a.exe
+
+
+
+Determining size of uint32_t passed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_fc66f && [1/2] Building C object CMakeFiles\cmTC_fc66f.dir\UINT32_T_LIBZIP.c.obj
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\sys/types.h
+Примечание: включение файла:  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\stdint.h
+Примечание: включение файла:   C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vcruntime.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\sal.h
+Примечание: включение файла:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\concurrencysal.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vadefs.h
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stddef.h
+Примечание: включение файла:   C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt.h
+[2/2] Linking C executable cmTC_fc66f.exe
+
+
+
+Determining size of __int64 passed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_43253 && [1/2] Building C object CMakeFiles\cmTC_43253.dir\__INT64_LIBZIP.c.obj
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\sys/types.h
+Примечание: включение файла:  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\stdint.h
+Примечание: включение файла:   C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vcruntime.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\sal.h
+Примечание: включение файла:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\concurrencysal.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vadefs.h
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stddef.h
+Примечание: включение файла:   C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt.h
+[2/2] Linking C executable cmTC_43253.exe
+
+
+
+Determining size of int64_t passed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_5ac2f && [1/2] Building C object CMakeFiles\cmTC_5ac2f.dir\INT64_T_LIBZIP.c.obj
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\sys/types.h
+Примечание: включение файла:  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\stdint.h
+Примечание: включение файла:   C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vcruntime.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\sal.h
+Примечание: включение файла:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\concurrencysal.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vadefs.h
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stddef.h
+Примечание: включение файла:   C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt.h
+[2/2] Linking C executable cmTC_5ac2f.exe
+
+
+
+Determining size of uint64_t passed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_5a587 && [1/2] Building C object CMakeFiles\cmTC_5a587.dir\UINT64_T_LIBZIP.c.obj
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\sys/types.h
+Примечание: включение файла:  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\stdint.h
+Примечание: включение файла:   C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vcruntime.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\sal.h
+Примечание: включение файла:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\concurrencysal.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vadefs.h
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stddef.h
+Примечание: включение файла:   C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt.h
+[2/2] Linking C executable cmTC_5a587.exe
+
+
+
+Determining size of short passed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_44314 && [1/2] Building C object CMakeFiles\cmTC_44314.dir\SHORT_LIBZIP.c.obj
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\sys/types.h
+Примечание: включение файла:  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\stdint.h
+Примечание: включение файла:   C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vcruntime.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\sal.h
+Примечание: включение файла:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\concurrencysal.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vadefs.h
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stddef.h
+Примечание: включение файла:   C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt.h
+[2/2] Linking C executable cmTC_44314.exe
+
+
+
+Determining size of int passed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_416d5 && [1/2] Building C object CMakeFiles\cmTC_416d5.dir\INT_LIBZIP.c.obj
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\sys/types.h
+Примечание: включение файла:  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\stdint.h
+Примечание: включение файла:   C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vcruntime.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\sal.h
+Примечание: включение файла:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\concurrencysal.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vadefs.h
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stddef.h
+Примечание: включение файла:   C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt.h
+[2/2] Linking C executable cmTC_416d5.exe
+
+
+
+Determining size of long passed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_0d52b && [1/2] Building C object CMakeFiles\cmTC_0d52b.dir\LONG_LIBZIP.c.obj
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\sys/types.h
+Примечание: включение файла:  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\stdint.h
+Примечание: включение файла:   C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vcruntime.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\sal.h
+Примечание: включение файла:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\concurrencysal.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vadefs.h
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stddef.h
+Примечание: включение файла:   C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt.h
+[2/2] Linking C executable cmTC_0d52b.exe
+
+
+
+Determining size of long long passed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_e9673 && [1/2] Building C object CMakeFiles\cmTC_e9673.dir\LONG_LONG_LIBZIP.c.obj
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\sys/types.h
+Примечание: включение файла:  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\stdint.h
+Примечание: включение файла:   C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vcruntime.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\sal.h
+Примечание: включение файла:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\concurrencysal.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vadefs.h
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stddef.h
+Примечание: включение файла:   C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt.h
+[2/2] Linking C executable cmTC_e9673.exe
+
+
+
+Determining size of off_t passed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_aa0a0 && [1/2] Building C object CMakeFiles\cmTC_aa0a0.dir\SIZEOF_OFF_T.c.obj
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\sys/types.h
+Примечание: включение файла:  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\stdint.h
+Примечание: включение файла:   C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vcruntime.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\sal.h
+Примечание: включение файла:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\concurrencysal.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vadefs.h
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stddef.h
+Примечание: включение файла:   C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt.h
+[2/2] Linking C executable cmTC_aa0a0.exe
+
+
+
+Determining size of size_t passed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_b01dd && [1/2] Building C object CMakeFiles\cmTC_b01dd.dir\SIZEOF_SIZE_T.c.obj
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\sys/types.h
+Примечание: включение файла:  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\stdint.h
+Примечание: включение файла:   C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vcruntime.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\sal.h
+Примечание: включение файла:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\concurrencysal.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vadefs.h
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stddef.h
+Примечание: включение файла:   C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt.h
+[2/2] Linking C executable cmTC_b01dd.exe
+
+
+
+Determining size of unsigned short passed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_66f2d && [1/2] Building C object CMakeFiles\cmTC_66f2d.dir\CMAKE_SIZEOF_UNSIGNED_SHORT.c.obj
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\sys/types.h
+Примечание: включение файла:  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\stdint.h
+Примечание: включение файла:   C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vcruntime.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\sal.h
+Примечание: включение файла:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\concurrencysal.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vadefs.h
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stddef.h
+Примечание: включение файла:   C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt.h
+[2/2] Linking C executable cmTC_66f2d.exe
+
+
+
+Determining if the system is big endian passed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_aee1a && [1/2] Building C object CMakeFiles\cmTC_aee1a.dir\TestEndianess.c.obj
+[2/2] Linking C executable cmTC_aee1a.exe
+
+
+TestEndianess.c:
+/* A 16 bit integer is required. */
+typedef unsigned short cmakeint16;
+
+/* On a little endian machine, these 16bit ints will give "THIS IS LITTLE ENDIAN."
+   On a big endian machine the characters will be exchanged pairwise. */
+const cmakeint16 info_little[] =  {0x4854, 0x5349, 0x4920, 0x2053, 0x494c, 0x5454, 0x454c, 0x4520, 0x444e, 0x4149, 0x2e4e, 0x0000};
+
+/* on a big endian machine, these 16bit ints will give "THIS IS BIG ENDIAN."
+   On a little endian machine the characters will be exchanged pairwise. */
+const cmakeint16 info_big[] =     {0x5448, 0x4953, 0x2049, 0x5320, 0x4249, 0x4720, 0x454e, 0x4449, 0x414e, 0x2e2e, 0x0000};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_little[argc];
+  require += info_big[argc];
+  (void)argv;
+  return require;
+}
+
+

@@ -1,0 +1,8 @@
+C:/Users/sana2/source/repos/antivirus/libzip/vstudio/zlib/build/CMakeFiles/zlib.dir
+C:/Users/sana2/source/repos/antivirus/libzip/vstudio/zlib/build/CMakeFiles/zlibstatic.dir
+C:/Users/sana2/source/repos/antivirus/libzip/vstudio/zlib/build/CMakeFiles/example.dir
+C:/Users/sana2/source/repos/antivirus/libzip/vstudio/zlib/build/CMakeFiles/minigzip.dir
+C:/Users/sana2/source/repos/antivirus/libzip/vstudio/zlib/build/CMakeFiles/INSTALL.dir
+C:/Users/sana2/source/repos/antivirus/libzip/vstudio/zlib/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/sana2/source/repos/antivirus/libzip/vstudio/zlib/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/sana2/source/repos/antivirus/libzip/vstudio/zlib/build/CMakeFiles/ZERO_CHECK.dir

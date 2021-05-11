@@ -1,0 +1,244 @@
+Determining if files CommonCrypto/CommonCrypto.h exist failed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_d6271 && [1/2] Building C object CMakeFiles\cmTC_d6271.dir\COMMONCRYPTO_FOUND.c.obj
+FAILED: CMakeFiles/cmTC_d6271.dir/COMMONCRYPTO_FOUND.c.obj 
+C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_d6271.dir\COMMONCRYPTO_FOUND.c.obj /FdCMakeFiles\cmTC_d6271.dir\ /FS -c "C:\Users\sana2\source\repos\antivirus\libzip\out\build\x64-Debug (�� ���������)\CMakeFiles\CheckIncludeFiles\COMMONCRYPTO_FOUND.c"
+C:\Users\sana2\source\repos\antivirus\libzip\out\build\x64-Debug (по умолчанию)\CMakeFiles\CheckIncludeFiles\COMMONCRYPTO_FOUND.c(2): fatal error C1083: Не удается открыть файл включение: CommonCrypto/CommonCrypto.h: No such file or directory,
+ninja: build stopped: subcommand failed.
+
+
+Source:
+/* */
+#include <CommonCrypto/CommonCrypto.h>
+
+
+int main(void){return 0;}
+
+Determining if the function arc4random exists failed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_be355 && [1/2] Building C object CMakeFiles\cmTC_be355.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_be355.exe
+FAILED: cmTC_be355.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_be355.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_be355.dir\CheckFunctionExists.c.obj  /out:cmTC_be355.exe /implib:cmTC_be355.lib /pdb:cmTC_be355.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_be355.dir\CheckFunctionExists.c.obj /out:cmTC_be355.exe /implib:cmTC_be355.lib /pdb:cmTC_be355.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_be355.dir/intermediate.manifest CMakeFiles\cmTC_be355.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: ссылка на неразрешенный внешний символ arc4random в функции main.
+cmTC_be355.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function clonefile exists failed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_1e0a5 && [1/2] Building C object CMakeFiles\cmTC_1e0a5.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_1e0a5.exe
+FAILED: cmTC_1e0a5.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_1e0a5.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_1e0a5.dir\CheckFunctionExists.c.obj  /out:cmTC_1e0a5.exe /implib:cmTC_1e0a5.lib /pdb:cmTC_1e0a5.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_1e0a5.dir\CheckFunctionExists.c.obj /out:cmTC_1e0a5.exe /implib:cmTC_1e0a5.lib /pdb:cmTC_1e0a5.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_1e0a5.dir/intermediate.manifest CMakeFiles\cmTC_1e0a5.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: ссылка на неразрешенный внешний символ clonefile в функции main.
+cmTC_1e0a5.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function explicit_bzero exists failed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_40b21 && [1/2] Building C object CMakeFiles\cmTC_40b21.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_40b21.exe
+FAILED: cmTC_40b21.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_40b21.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_40b21.dir\CheckFunctionExists.c.obj  /out:cmTC_40b21.exe /implib:cmTC_40b21.lib /pdb:cmTC_40b21.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_40b21.dir\CheckFunctionExists.c.obj /out:cmTC_40b21.exe /implib:cmTC_40b21.lib /pdb:cmTC_40b21.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_40b21.dir/intermediate.manifest CMakeFiles\cmTC_40b21.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: ссылка на неразрешенный внешний символ explicit_bzero в функции main.
+cmTC_40b21.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function explicit_memset exists failed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_42b55 && [1/2] Building C object CMakeFiles\cmTC_42b55.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_42b55.exe
+FAILED: cmTC_42b55.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_42b55.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_42b55.dir\CheckFunctionExists.c.obj  /out:cmTC_42b55.exe /implib:cmTC_42b55.lib /pdb:cmTC_42b55.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_42b55.dir\CheckFunctionExists.c.obj /out:cmTC_42b55.exe /implib:cmTC_42b55.lib /pdb:cmTC_42b55.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_42b55.dir/intermediate.manifest CMakeFiles\cmTC_42b55.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: ссылка на неразрешенный внешний символ explicit_memset в функции main.
+cmTC_42b55.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function fseeko exists failed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_96c84 && [1/2] Building C object CMakeFiles\cmTC_96c84.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_96c84.exe
+FAILED: cmTC_96c84.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_96c84.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_96c84.dir\CheckFunctionExists.c.obj  /out:cmTC_96c84.exe /implib:cmTC_96c84.lib /pdb:cmTC_96c84.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_96c84.dir\CheckFunctionExists.c.obj /out:cmTC_96c84.exe /implib:cmTC_96c84.lib /pdb:cmTC_96c84.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_96c84.dir/intermediate.manifest CMakeFiles\cmTC_96c84.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: ссылка на неразрешенный внешний символ fseeko в функции main.
+cmTC_96c84.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function ftello exists failed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_ecd19 && [1/2] Building C object CMakeFiles\cmTC_ecd19.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_ecd19.exe
+FAILED: cmTC_ecd19.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_ecd19.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_ecd19.dir\CheckFunctionExists.c.obj  /out:cmTC_ecd19.exe /implib:cmTC_ecd19.lib /pdb:cmTC_ecd19.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_ecd19.dir\CheckFunctionExists.c.obj /out:cmTC_ecd19.exe /implib:cmTC_ecd19.lib /pdb:cmTC_ecd19.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_ecd19.dir/intermediate.manifest CMakeFiles\cmTC_ecd19.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: ссылка на неразрешенный внешний символ ftello в функции main.
+cmTC_ecd19.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function getprogname exists failed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_bf625 && [1/2] Building C object CMakeFiles\cmTC_bf625.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_bf625.exe
+FAILED: cmTC_bf625.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_bf625.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_bf625.dir\CheckFunctionExists.c.obj  /out:cmTC_bf625.exe /implib:cmTC_bf625.lib /pdb:cmTC_bf625.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_bf625.dir\CheckFunctionExists.c.obj /out:cmTC_bf625.exe /implib:cmTC_bf625.lib /pdb:cmTC_bf625.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_bf625.dir/intermediate.manifest CMakeFiles\cmTC_bf625.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: ссылка на неразрешенный внешний символ getprogname в функции main.
+cmTC_bf625.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function localtime_r exists failed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_bcb02 && [1/2] Building C object CMakeFiles\cmTC_bcb02.dir\CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_bcb02.exe
+FAILED: cmTC_bcb02.exe 
+cmd.exe /C "cd . && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_bcb02.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x64\mt.exe --manifests  -- C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_bcb02.dir\CheckFunctionExists.c.obj  /out:cmTC_bcb02.exe /implib:cmTC_bcb02.lib /pdb:cmTC_bcb02.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+LINK Pass 1: command "C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_bcb02.dir\CheckFunctionExists.c.obj /out:cmTC_bcb02.exe /implib:cmTC_bcb02.lib /pdb:cmTC_bcb02.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_bcb02.dir/intermediate.manifest CMakeFiles\cmTC_bcb02.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: ссылка на неразрешенный внешний символ localtime_r в функции main.
+cmTC_bcb02.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the strcasecmp exist failed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_c5c26 && [1/2] Building C object CMakeFiles\cmTC_c5c26.dir\CheckSymbolExists.c.obj
+FAILED: CMakeFiles/cmTC_c5c26.dir/CheckSymbolExists.c.obj 
+C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_c5c26.dir\CheckSymbolExists.c.obj /FdCMakeFiles\cmTC_c5c26.dir\ /FS -c CheckSymbolExists.c
+CheckSymbolExists.c(2): fatal error C1083: Не удается открыть файл включение: strings.h: No such file or directory,
+ninja: build stopped: subcommand failed.
+
+
+File C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <strings.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef strcasecmp
+  return ((int*)(&strcasecmp))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+Determining if files sys/types.h;sys/stat.h;fts.h exist failed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_68009 && [1/2] Building C object CMakeFiles\cmTC_68009.dir\HAVE_FTS_H.c.obj
+FAILED: CMakeFiles/cmTC_68009.dir/HAVE_FTS_H.c.obj 
+C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_68009.dir\HAVE_FTS_H.c.obj /FdCMakeFiles\cmTC_68009.dir\ /FS -c "C:\Users\sana2\source\repos\antivirus\libzip\out\build\x64-Debug (�� ���������)\CMakeFiles\CheckIncludeFiles\HAVE_FTS_H.c"
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\sys/types.h
+Примечание: включение файла:  C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\sys/stat.h
+Примечание: включение файла:   C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt.h
+Примечание: включение файла:    C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vcruntime.h
+Примечание: включение файла:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\sal.h
+Примечание: включение файла:      C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\concurrencysal.h
+Примечание: включение файла:     C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vadefs.h
+C:\Users\sana2\source\repos\antivirus\libzip\out\build\x64-Debug (по умолчанию)\CMakeFiles\CheckIncludeFiles\HAVE_FTS_H.c(4): fatal error C1083: Не удается открыть файл включение: fts.h: No such file or directory,
+ninja: build stopped: subcommand failed.
+
+
+Source:
+/* */
+#include <sys/types.h>
+#include <sys/stat.h>
+#include <fts.h>
+
+
+int main(void){return 0;}
+
+Determining if files strings.h exist failed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_b192e && [1/2] Building C object CMakeFiles\cmTC_b192e.dir\HAVE_STRINGS_H.c.obj
+FAILED: CMakeFiles/cmTC_b192e.dir/HAVE_STRINGS_H.c.obj 
+C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_b192e.dir\HAVE_STRINGS_H.c.obj /FdCMakeFiles\cmTC_b192e.dir\ /FS -c "C:\Users\sana2\source\repos\antivirus\libzip\out\build\x64-Debug (�� ���������)\CMakeFiles\CheckIncludeFiles\HAVE_STRINGS_H.c"
+C:\Users\sana2\source\repos\antivirus\libzip\out\build\x64-Debug (по умолчанию)\CMakeFiles\CheckIncludeFiles\HAVE_STRINGS_H.c(2): fatal error C1083: Не удается открыть файл включение: strings.h: No such file or directory,
+ninja: build stopped: subcommand failed.
+
+
+Source:
+/* */
+#include <strings.h>
+
+
+int main(void){return 0;}
+
+Determining if files unistd.h exist failed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_a2887 && [1/2] Building C object CMakeFiles\cmTC_a2887.dir\HAVE_UNISTD_H.c.obj
+FAILED: CMakeFiles/cmTC_a2887.dir/HAVE_UNISTD_H.c.obj 
+C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_a2887.dir\HAVE_UNISTD_H.c.obj /FdCMakeFiles\cmTC_a2887.dir\ /FS -c "C:\Users\sana2\source\repos\antivirus\libzip\out\build\x64-Debug (�� ���������)\CMakeFiles\CheckIncludeFiles\HAVE_UNISTD_H.c"
+C:\Users\sana2\source\repos\antivirus\libzip\out\build\x64-Debug (по умолчанию)\CMakeFiles\CheckIncludeFiles\HAVE_UNISTD_H.c(2): fatal error C1083: Не удается открыть файл включение: unistd.h: No such file or directory,
+ninja: build stopped: subcommand failed.
+
+
+Source:
+/* */
+#include <unistd.h>
+
+
+int main(void){return 0;}
+
+Performing C SOURCE FILE Test HAVE_FICLONERANGE failed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_e8a9d && [1/2] Building C object CMakeFiles\cmTC_e8a9d.dir\src.c.obj
+FAILED: CMakeFiles/cmTC_e8a9d.dir/src.c.obj 
+C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DHAVE_FICLONERANGE /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_e8a9d.dir\src.c.obj /FdCMakeFiles\cmTC_e8a9d.dir\ /FS -c src.c
+src.c(1): fatal error C1083: Не удается открыть файл включение: sys/ioctl.h: No such file or directory,
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+#include <sys/ioctl.h>
+#include <linux/fs.h>
+int main(int argc, char *argv[]) { unsigned long x = FICLONERANGE; }
+Performing C SOURCE FILE Test HAVE_NULLABLE failed with the following output:
+Change Dir: C:/Users/sana2/source/repos/antivirus/libzip/out/build/x64-Debug (по умолчанию)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_5b6d4 && [1/2] Building C object CMakeFiles\cmTC_5b6d4.dir\src.c.obj
+FAILED: CMakeFiles/cmTC_5b6d4.dir/src.c.obj 
+C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1428~1.293\bin\Hostx64\x64\cl.exe  /nologo   /DWIN32 /D_WINDOWS /W3 -DHAVE_NULLABLE /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_5b6d4.dir\src.c.obj /FdCMakeFiles\cmTC_5b6d4.dir\ /FS -c src.c
+src.c(2): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "bar"
+src.c(2): error C2061: синтаксическая ошибка: идентификатор "bar"
+src.c(2): error C2059: синтаксическая ошибка: ;
+src.c(2): error C2059: синтаксическая ошибка: )
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+
+int foo(char * _Nullable bar);
+int main(int argc, char *argv[]) { }

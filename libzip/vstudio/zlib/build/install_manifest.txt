@@ -1,0 +1,7 @@
+C:/Users/sana2/source/repos/antivirus/libzip/vstudio/zlib/installed/lib/zlib.lib
+C:/Users/sana2/source/repos/antivirus/libzip/vstudio/zlib/installed/bin/zlib.dll
+C:/Users/sana2/source/repos/antivirus/libzip/vstudio/zlib/installed/lib/zlibstatic.lib
+C:/Users/sana2/source/repos/antivirus/libzip/vstudio/zlib/installed/include/zconf.h
+C:/Users/sana2/source/repos/antivirus/libzip/vstudio/zlib/installed/include/zlib.h
+C:/Users/sana2/source/repos/antivirus/libzip/vstudio/zlib/installed/share/man/man3/zlib.3
+C:/Users/sana2/source/repos/antivirus/libzip/vstudio/zlib/installed/share/pkgconfig/zlib.pc

@@ -1,0 +1,13 @@
+prefix=C:/Users/sana2/source/repos/antivirus/libzip/vstudio/zlib/installed
+exec_prefix=C:/Users/sana2/source/repos/antivirus/libzip/vstudio/zlib/installed
+libdir=C:/Users/sana2/source/repos/antivirus/libzip/vstudio/zlib/installed/lib
+sharedlibdir=C:/Users/sana2/source/repos/antivirus/libzip/vstudio/zlib/installed/lib
+includedir=C:/Users/sana2/source/repos/antivirus/libzip/vstudio/zlib/installed/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.11
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
